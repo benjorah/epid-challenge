@@ -1,0 +1,5 @@
+Data Protection Professional =12345
+CS0= 1234
+Data Handler= 123
+
+(Use the exported sql file ..the DB name is epid

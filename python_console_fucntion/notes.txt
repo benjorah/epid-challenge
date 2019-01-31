@@ -1,0 +1,2 @@
+call console with 'palindrome_checker.py args'
+run test with 'palindrome_test.py'
